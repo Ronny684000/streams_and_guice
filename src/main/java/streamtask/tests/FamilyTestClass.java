@@ -15,8 +15,6 @@ public class FamilyTestClass {
     private FamilyExpand family = JsonConsumer.getFamily("family.json");
     private List<Integer> familyAges = getFamilyAges();
 
-    public FamilyTestClass() {}
-
     private List<Integer> getFamilyAges() {
         return family.getFamilyMembers().stream()
                 .map(PersonExpand::getAge)
