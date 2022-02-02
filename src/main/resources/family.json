@@ -1,0 +1,44 @@
+{
+  "family": [
+    {
+      "name": "Vanya",
+      "age": 29
+    },
+    {
+      "name": "Masha",
+      "age": 29
+    },
+    {
+      "name": "Natasha",
+      "age": 14
+    },
+    {
+      "name": "Petr",
+      "age": 54
+    },
+    {
+      "name": "Vasilisa",
+      "age": 13
+    },
+    {
+      "name": "Sasha",
+      "age": 7
+    },
+    {
+      "name": "Lesha",
+      "age": 7
+    },
+    {
+      "name": "Nina",
+      "age": 56
+    },
+    {
+      "name": "Misha",
+      "age": 31
+    },
+    {
+      "name": "Grisha",
+      "age": 14
+    }
+  ]
+}
