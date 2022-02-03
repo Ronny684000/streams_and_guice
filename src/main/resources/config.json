@@ -1,0 +1,4 @@
+{
+  "rest_assured_base_url": "https://swapi.dev/api/",
+  "retrofit_base_url": "https://www.nbrb.by/api/exrates/"
+}
